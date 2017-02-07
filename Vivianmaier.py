@@ -15,5 +15,4 @@ for url in soup.select('.rsImg'):
         count  = count + 1
         srcs = url.attrs['src']
         urllib.request.urlretrieve(srcs, 'D:\Vivianmaier\%d.jpg' % count)
-
-
+print（“任务完成”）
