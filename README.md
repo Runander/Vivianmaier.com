@@ -1,2 +1,2 @@
 # Vivianmaier.com
-下载摄影师vivianmaier网站上的照片
+利用requests和BeautifulSoup爬取摄影师vivianmaier网站上的照片并下载到电脑。
